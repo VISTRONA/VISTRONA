@@ -14,8 +14,7 @@ I love frying ESP32 microcontrollers. And I love customizing Linux until it brea
 
 <!-- GitHub Top Languages Image -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISTRONA&layout=compact&theme=radical&hide_border=true&cache_seconds=1200" alt="Top Langs" style="height: 165px;">
-</div>
+
 
 ---
 
@@ -49,7 +48,9 @@ I love frying ESP32 microcontrollers. And I love customizing Linux until it brea
 ### ⚡ Side Loops
 
 - 💬 Ask me about: Why my code compiles perfectly but the physical sensor still reads 0.
+
 - 🏋️‍♂️ When not coding: Lifting heavy circles at the gym or deep-diving into whey protein nutritional profiles.
+
 - 📬 Ping me: `contact.me@ma.aneeshpadole.com` or 'contact.me@ma.vistrona.com'# Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aneesh!
   
   I love frying ESP32 microcontrollers. And I love customizing Linux until it breaks. <img src="https://cultofthepartyparrot.com/parrots/hd/shuffleparrot.gif" width="32" height="30"/>
@@ -72,6 +73,7 @@ I love frying ESP32 microcontrollers. And I love customizing Linux until it brea
   ---
   
   ### 🚀 Projects that surprisingly work (sometimes)
+  
   * 🔌 **VoltTrack / SentryEnergy:** Slapped an ESP32 and a PZEM-004T together to spy on my room's power usage. Built a FastAPI & Node.js dashboard to watch my electricity bill spike in real-time. Currently trying to make it guess which appliance is ruining my wallet.
   * 🧪 **Portable Water Quality Analyzer:** A pocket-sized gadget built with an ESP32, pH, and TDS sensors to check if water is actually safe or a total biohazard. Mostly involved a lot of calibration math and aggressive praying for stable data.
   * 🏔️ **I.B.C.M.S.:** An electromechanical system using ultrasonic arrays to give drivers a heads-up on mountain blind curves. Microsecond-accurate hardware logic so oncoming traffic doesn't meet unexpectedly.
@@ -100,7 +102,9 @@ I love frying ESP32 microcontrollers. And I love customizing Linux until it brea
   ### ⚡ Side Loops
   
   - 💬 Ask me about: Why my code compiles perfectly but the physical sensor still reads 0.
+  
   - 🏋️‍♂️ When not coding: Lifting heavy circles at the gym or deep-diving into whey protein nutritional profiles.
+  
   - 📬 Ping me: `contact.me@ma.aneeshpadole.com` or 'contact.me@ma.vistrona.com'# Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aneesh!
     
     I love frying ESP32 microcontrollers. And I love customizing Linux until it breaks. <img src="https://cultofthepartyparrot.com/parrots/hd/shuffleparrot.gif" width="32" height="30"/>
@@ -123,6 +127,7 @@ I love frying ESP32 microcontrollers. And I love customizing Linux until it brea
     ---
     
     ### 🚀 Projects that surprisingly work (sometimes)
+    
     * 🔌 **VoltTrack / SentryEnergy:** Slapped an ESP32 and a PZEM-004T together to spy on my room's power usage. Built a FastAPI & Node.js dashboard to watch my electricity bill spike in real-time. Currently trying to make it guess which appliance is ruining my wallet.
     * 🧪 **Portable Water Quality Analyzer:** A pocket-sized gadget built with an ESP32, pH, and TDS sensors to check if water is actually safe or a total biohazard. Mostly involved a lot of calibration math and aggressive praying for stable data.
     * 🏔️ **I.B.C.M.S.:** An electromechanical system using ultrasonic arrays to give drivers a heads-up on mountain blind curves. Microsecond-accurate hardware logic so oncoming traffic doesn't meet unexpectedly.
@@ -151,7 +156,9 @@ I love frying ESP32 microcontrollers. And I love customizing Linux until it brea
     ### ⚡ Side Loops
     
     - 💬 Ask me about: Why my code compiles perfectly but the physical sensor still reads 0.
+    
     - 🏋️‍♂️ When not coding: Lifting heavy circles at the gym or deep-diving into whey protein nutritional profiles.
+    
     - 📬 Ping me: `contact.me@ma.aneeshpadole.com` or 'contact.me@ma.vistrona.com'# Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aneesh!
       
       I love frying ESP32 microcontrollers. And I love customizing Linux until it breaks. <img src="https://cultofthepartyparrot.com/parrots/hd/shuffleparrot.gif" width="32" height="30"/>
@@ -174,6 +181,7 @@ I love frying ESP32 microcontrollers. And I love customizing Linux until it brea
       ---
       
       ### 🚀 Projects that surprisingly work (sometimes)
+      
       * 🔌 **VoltTrack / SentryEnergy:** Slapped an ESP32 and a PZEM-004T together to spy on my room's power usage. Built a FastAPI & Node.js dashboard to watch my electricity bill spike in real-time. Currently trying to make it guess which appliance is ruining my wallet.
       * 🧪 **Portable Water Quality Analyzer:** A pocket-sized gadget built with an ESP32, pH, and TDS sensors to check if water is actually safe or a total biohazard. Mostly involved a lot of calibration math and aggressive praying for stable data.
       * 🏔️ **I.B.C.M.S.:** An electromechanical system using ultrasonic arrays to give drivers a heads-up on mountain blind curves. Microsecond-accurate hardware logic so oncoming traffic doesn't meet unexpectedly.
@@ -202,7 +210,9 @@ I love frying ESP32 microcontrollers. And I love customizing Linux until it brea
       ### ⚡ Side Loops
       
       - 💬 Ask me about: Why my code compiles perfectly but the physical sensor still reads 0.
+      
       - 🏋️‍♂️ When not coding: Lifting heavy circles at the gym or deep-diving into whey protein nutritional profiles.
+      
       - 📬 Ping me: `contact.me@ma.aneeshpadole.com` or 'contact.me@ma.vistrona.com'# Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aneesh!
         
         I love frying ESP32 microcontrollers. And I love customizing Linux until it breaks. <img src="https://cultofthepartyparrot.com/parrots/hd/shuffleparrot.gif" width="32" height="30"/>
@@ -225,6 +235,7 @@ I love frying ESP32 microcontrollers. And I love customizing Linux until it brea
         ---
         
         ### 🚀 Projects that surprisingly work (sometimes)
+        
         * 🔌 **VoltTrack / SentryEnergy:** Slapped an ESP32 and a PZEM-004T together to spy on my room's power usage. Built a FastAPI & Node.js dashboard to watch my electricity bill spike in real-time. Currently trying to make it guess which appliance is ruining my wallet.
         * 🧪 **Portable Water Quality Analyzer:** A pocket-sized gadget built with an ESP32, pH, and TDS sensors to check if water is actually safe or a total biohazard. Mostly involved a lot of calibration math and aggressive praying for stable data.
         * 🏔️ **I.B.C.M.S.:** An electromechanical system using ultrasonic arrays to give drivers a heads-up on mountain blind curves. Microsecond-accurate hardware logic so oncoming traffic doesn't meet unexpectedly.
