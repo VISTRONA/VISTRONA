@@ -1,8 +1,8 @@
 # Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aneesh!
 
-I love frying ESP32 microcontrollers. And I love customizing Linux until it breaks. <img src="https://cultofthepartyparrot.com/parrots/hd/shuffleparrot.gif" width="32" height="30"/>
+I love frying ESP32 microcontrollers or stressing my laptop. And I love customizing Linux until it breaks. <img src="https://cultofthepartyparrot.com/parrots/hd/shuffleparrot.gif" width="32" height="30"/>
 
-<p>
+<p>`
   <a href="https://www.linkedin.com/in/aneesh-padole/">
     <img src="https://img.shields.io/badge/AneeshPadole-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn: Aneesh Padole" style="vertical-align:middle;" />
   </a>
