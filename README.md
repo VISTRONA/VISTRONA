@@ -49,4 +49,4 @@ I love frying ESP32 microcontrollers. And I love customizing Linux until it brea
 
 - 🏋️‍♂️ When not coding: Lifting heavy circles at the gym or deep-diving into whey protein nutritional profiles.
 
-- 📬 Ping me: `contact.me@ma.aneeshpadole.com` or contact.me@ma.vistrona.com
+- 📬 Ping me: `contact.me@ma.aneeshpadole.com` or `contact.me@ma.vistrona.com`
