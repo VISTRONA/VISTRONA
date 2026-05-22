@@ -1,4 +1,5 @@
-# Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aneesh!
+# HELLO THERE <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aneesh!
+*Master Kanobi
 
 I love stressing my laptop with games or sometimes code(Mostly). And I love customizing Linux until it breaks. <img src="https://cultofthepartyparrot.com/parrots/hd/shuffleparrot.gif" width="32" height="30"/>
 
