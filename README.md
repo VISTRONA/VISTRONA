@@ -1,9 +1,9 @@
-# HELLO THERE <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aneesh!
-*Master Kanobi
+# HELLO THERE\* <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aneesh!
+*\*General Kenobi*
 
-I love stressing my laptop with games or sometimes code(Mostly). And I love customizing Linux until it breaks. <img src="https://cultofthepartyparrot.com/parrots/hd/shuffleparrot.gif" width="32" height="30"/>
+I love stressing my laptop with games or sometimes code (Mostly). And I love customizing Linux until it breaks. <img src="https://cultofthepartyparrot.com/parrots/hd/shuffleparrot.gif" width="32" height="30"/>
 
-<p>`
+<p>
   <a href="https://www.linkedin.com/in/aneesh-padole/">
     <img src="https://img.shields.io/badge/AneeshPadole-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn: Aneesh Padole" style="vertical-align:middle;" />
   </a>
@@ -13,7 +13,9 @@ I love stressing my laptop with games or sometimes code(Mostly). And I love cust
   <!-- Streak Stats Image -->
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=VISTRONA&theme=radical&date_format=M%20j%5B%2C%20Y%5D&hide_border=true&cache_seconds=1200" alt="github-streaks" style="height: 165px;">
 
-<!-- GitHub Top Languages Image -->
+  <!-- GitHub Top Languages Image -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISTRONA&layout=compact&theme=radical&hide_border=true&cache_seconds=1200" alt="Top Langs" style="height: 165px;">
+</div>
 
 ---
 
@@ -29,6 +31,7 @@ I love stressing my laptop with games or sometimes code(Mostly). And I love cust
 
 * 🐧 **Ubuntu Linux:** Run it daily with a heavily customized GNOME desktop because looking like a cyberpunk hacker is 50% of the job.
 * 🧱 You won't see me posting generic "I completed a 2-hour Python course" badges. I'd rather spend that time accidentally blowing up a GPIO pin while building real stuff. Or bricking my laptop.
+* 🐺 **The "Gilfoyle" Code:** I prefer working alone. It's faster, the code quality stays high, and I don't have to explain why a pointer arithmetic bug broke the entire backend.
 
 ---
 
@@ -39,7 +42,8 @@ I love stressing my laptop with games or sometimes code(Mostly). And I love cust
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"></code>
-* And More(Will update it all later right now i have to sleep).
+
+* And More (Will update it all later right now i have to sleep).
 
 ###### (Hardware, firmware, backends, and terminal scripts that I haven't broken yet)
 
@@ -48,7 +52,12 @@ I love stressing my laptop with games or sometimes code(Mostly). And I love cust
 ### ⚡ Side Loops
 
 - 💬 Ask me about: Why my code compiles perfectly but the physical sensor still reads 0.
-
 - 🏋️‍♂️ When not coding: Lifting heavy circles at the gym or deep-diving into whey protein nutritional profiles.
-
 - 📬 Ping me: `contact.me@ma.aneeshpadole.com` or `contact.me@ma.vistrona.com`
+
+```text
+while (alive) {
+    code();
+    gym();
+    burn_a_resistor();
+}
