@@ -38,6 +38,7 @@ I love stressing my laptop with games or sometimes code(Mostly). And I love cust
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"></code>
+* And More(Will update it all later right now i have to sleep).
 
 ###### (Hardware, firmware, backends, and terminal scripts that I haven't broken yet)
 
