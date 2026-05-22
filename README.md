@@ -1,6 +1,6 @@
 # Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aneesh!
 
-I love frying ESP32 microcontrollers or stressing my laptop. And I love customizing Linux until it breaks. <img src="https://cultofthepartyparrot.com/parrots/hd/shuffleparrot.gif" width="32" height="30"/>
+I love stressing my laptop with games or sometimes code(Mostly). And I love customizing Linux until it breaks. <img src="https://cultofthepartyparrot.com/parrots/hd/shuffleparrot.gif" width="32" height="30"/>
 
 <p>`
   <a href="https://www.linkedin.com/in/aneesh-padole/">
