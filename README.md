@@ -1,7 +1,7 @@
 # HELLO THERE\* <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aneesh!
 *\*General Kenobi*
 
-I love stressing my laptop with games or sometimes code (Mostly). And I love customizing Linux until it breaks. <img src="https://cultofthepartyparrot.com/parrots/hd/shuffleparrot.gif" width="32" height="30"/>
+I love stressing my laptop with games or sometimes code (Mostly). I love customizing Linux until it breaks, and when I'm tired of screens, I love trekking and exploring new places. <img src="https://cultofthepartyparrot.com/parrots/hd/shuffleparrot.gif" width="32" height="30"/>
 
 <p>
   <a href="https://www.linkedin.com/in/aneesh-padole/">
@@ -13,8 +13,8 @@ I love stressing my laptop with games or sometimes code (Mostly). And I love cus
   <!-- Streak Stats Image -->
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=VISTRONA&theme=radical&date_format=M%20j%5B%2C%20Y%5D&hide_border=true&cache_seconds=1200" alt="github-streaks" style="height: 165px;">
 
-  <!-- GitHub Top Languages Image (Fixed URL & Un-commented) -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VISTRONA&layout=compact&theme=radical&hide_border=true&cache_seconds=1200" alt="Top Langs" style="height: 165px;">
+  <!-- GitHub Top Languages Image -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISTRONA&layout=compact&theme=radical&hide_border=true&cache_seconds=1200" alt="Top Langs" style="height: 165px;">
 </div>
 
 ---
@@ -22,7 +22,7 @@ I love stressing my laptop with games or sometimes code (Mostly). And I love cus
 ### 🚀 Projects that surprisingly work (sometimes)
 
 * 🔌 **VoltTrack / SentryEnergy:** Slapped an ESP32 and a PZEM-004T together to spy on my room's power usage. Built a FastAPI & Node.js dashboard to watch my electricity bill spike in real-time. Currently trying to make it guess which appliance is ruining my wallet.
-* 🧪 **Portable Water Quality Analyzer:** A small-sized gadget built with an ESP32, pH, and TDS sensors to check if water is actually safe or a total biohazard. Mostly involved a lot of calibration math and aggressive praying for stable data.
+* 🧪 **Portable Water Quality Analyzer:** A pocket-sized gadget built with an ESP32, pH, and TDS sensors to check if water is actually safe or a total biohazard. Mostly involved a lot of calibration math and aggressive praying for stable data.
 * 🏔️ **I.B.C.M.S.:** An electromechanical system using ultrasonic arrays to give drivers a heads-up on mountain blind curves. Microsecond-accurate hardware logic so oncoming traffic doesn't meet unexpectedly.
 
 ---
@@ -52,12 +52,12 @@ I love stressing my laptop with games or sometimes code (Mostly). And I love cus
 ### ⚡ Side Loops
 
 - 💬 Ask me about: Why my code compiles perfectly but the physical sensor still reads 0.
-- 🏋️‍♂️ When not coding: Lifting heavy circles at the gym or deep-diving into whey protein nutritional profiles.
+- 🥾 Outside the lab: Escaping into the mountains for a tough trek, exploring fresh destinations, or lifting heavy circles at the gym.
 - 📬 Ping me: `contact.me@ma.aneeshpadole.com` or `contact.me@ma.vistrona.com`
 
 ```text
 while (alive) {
     code();
-    gym();
+    gym_or_trek();
     burn_a_resistor();
 }
