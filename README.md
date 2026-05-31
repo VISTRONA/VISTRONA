@@ -14,7 +14,8 @@ I love stressing my laptop with games or sometimes code (Mostly). I love customi
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=VISTRONA&theme=radical&date_format=M%20j%5B%2C%20Y%5D&hide_border=true&cache_seconds=1200" alt="github-streaks" style="height: 165px;">
 
   <!-- GitHub Top Languages Image -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISTRONA&layout=compact&theme=radical&hide_border=true&cache_seconds=1200" alt="Top Langs" style="height: 165px;">
+<!--  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISTRONA&layout=compact&theme=radical&hide_border=true&cache_seconds=1200" alt="Top Langs" style="height: 165px;">
+-->
 </div>
 
 ---
