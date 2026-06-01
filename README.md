@@ -19,9 +19,9 @@ I love stressing my laptop with games or sometimes code (Mostly). I love customi
 </div>
 
 ---
-
+🪓 Smart Resource Monitor & Auto-Mitigator: A Python/psutil telemetry dashboard built because I fundamentally don't trust the OS to manage its own memory. Ruthlessly tracks down idle background hogs and uses direct kernel32 API calls to forcefully page out their memory. Includes a highly satisfying 'Purge' button to terminate entire process trees that step out of line.
 ### 🚀 Projects that surprisingly work (sometimes)
-
+* 🪓 **Smart Resource Monitor & Auto-Mitigator:** A Python/psutil telemetry dashboard built because I fundamentally don't trust the OS to manage its own memory. Ruthlessly tracks down idle background hogs and uses direct kernel32 API calls to forcefully page out their memory. Includes a highly satisfying 'Purge' button to terminate entire process trees that step out of line.
 * 🔌 **VoltTrack / SentryEnergy:** Slapped an ESP32 and a PZEM-004T together to spy on my room's power usage. Built a FastAPI & Node.js dashboard to watch my electricity bill spike in real-time. Currently trying to make it guess which appliance is ruining my wallet.
 * 🧪 **Portable Water Quality Analyzer:** A pocket-sized gadget built with an ESP32, pH, and TDS sensors to check if water is actually safe or a total biohazard. Mostly involved a lot of calibration math and aggressive praying for stable data.
 * 🏔️ **I.B.C.M.S.:** An electromechanical system using ultrasonic arrays to give drivers a heads-up on mountain blind curves. Microsecond-accurate hardware logic so oncoming traffic doesn't meet unexpectedly.
